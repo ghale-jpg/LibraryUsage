@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Generated output
+qrcodes/*.png
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
